@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot (Java)/task/java.Simple_Chatty_Bot__Java_-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot (Java)/task/java.Simple_Chatty_Bot__Java_-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot (Java)/task/java.Simple_Chatty_Bot__Java_-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot (Java)/task/java.Simple_Chatty_Bot__Java_-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Simple Chatty Bot (Java)/task/java.Simple_Chatty_Bot__Java_-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Simple Chatty Bot (Java)/task/java.Simple_Chatty_Bot__Java_-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/java.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/java.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/java.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/java.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/java.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/java.util.test.iml" />
+    </modules>
+  </component>
+</project>
