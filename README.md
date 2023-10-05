@@ -1,8 +1,16 @@
-This is the *Simple Chatty Bot (Java)* project I made myself.
+# Simple Chatty Bot (Java) 🤖
 
+## Introduction
 
-<p>Here, at the beginning of your programmer’s path, creating a simple console chat bot will do wonders to guide you through the basics of coding. During this journey, you will also play some word and number games that you are going to implement on your own. Pack up and let’s hit the road, my friend!</p><br/><br/>Learn more at <a href="https://hyperskill.org/projects/113?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card">https://hyperskill.org/projects/113</a>
+Welcome to my Simple Chatty Bot project! If you're at the beginning of your programming journey, this simple console chat bot will guide you through the basics of coding. Not only will you learn the fundamentals, but you'll also get to implement some word and number games along the way. So let's dive in, shall we?
 
-Here's the link to the project: https://hyperskill.org/projects/113
+## Learn More 📚
 
-Check out my profile: https://hyperskill.org/profile/135248441
+For a more in-depth explanation and details, check out the official project link:  
+[Simple Chatty Bot on Hyperskill](https://hyperskill.org/projects/113)
+
+## My Profile 👤
+
+Feel free to check out my Hyperskill profile for more awesome projects:  
+[My Hyperskill Profile](https://hyperskill.org/profile/135248441)
+
