@@ -1,4 +1,4 @@
-# Simple Chatty Bot (Java) 🤖
+# Simple Chatty Bot (Java)
 
 ## Introduction
 Hey there! Welcome to my Simple Chatty Bot project. This is an educational project from JetBrains Academy, part of their Java learning track.
